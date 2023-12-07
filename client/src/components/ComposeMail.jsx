@@ -71,12 +71,12 @@ const ComposeMail = ({ openDialog, setOpenDialog }) => {
 
         const payload={
             to:data.to,
-            from:'shatakshi1712@gmail.com',
+            from:'WRITE YOUR EMAIL ID HERE',
             subject:data.subject,
             body:data.body,
             date: new Date(),
             image:'',
-            name:'Shatakshi Shukla',
+            name:'WRITE YOUR NAME HERE',
             starred:false,
             type:'drafts'
         }
@@ -98,7 +98,7 @@ const ComposeMail = ({ openDialog, setOpenDialog }) => {
             window.Email.send({
                 ...config,
                 To: data.to,
-                From: "shatakshi1712@gmail.com",
+                From: "WRITE YOUR EMAIL ID HERE",
                 Subject: data.subject,
                 Body: data.body
             }).then(
@@ -108,12 +108,12 @@ const ComposeMail = ({ openDialog, setOpenDialog }) => {
 
         const payload={
             to:data.to,
-            from:'shatakshi1712@gmail.com',
+            from:'WRITE YOUR EMAIL ID HERE',
             subject:data.subject,
             body:data.body,
             date: new Date(),
             image:'',
-            name:'Shatakshi Shukla',
+            name:'WRITE YOUR NAME HERE',
             starred:false,
             type:'sent'
         }
