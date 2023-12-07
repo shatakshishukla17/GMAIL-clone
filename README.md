@@ -28,7 +28,8 @@ Welcome to the Gmail Clone, a feature-rich full-stack web application crafted us
 1. Clone the repository.
 2. Install dependencies using `npm install` in both the client and server directories.
 3. Configure MongoDB connection and SMTP server. Visit [smtp.elasticemail.com](https://smtp.elasticemail.com) for SMTP server setup and [cloud.mongodb.com](https://cloud.mongodb.com) for MongoDB configuration.
-4. Run the server with `npm start` in both server and client directories on different terminals in VS Code.
+4. In ComposeMail.jsx(/client/src/components) inside payload wherever it's write your name and email id, do the same.
+5. Run the server with `npm start` in both server and client directories on different terminals in VS Code.
 
 Explore the codebase, understand the implementation details, and contribute to the project's enhancement. Feel free to open issues or contribute through pull requests. Happy coding!
 
