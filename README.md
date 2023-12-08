@@ -33,7 +33,7 @@ Welcome to the Gmail Clone, a feature-rich full-stack web application crafted us
 
 Explore the codebase, understand the implementation details, and contribute to the project's enhancement. Feel free to open issues or contribute through pull requests. Happy coding!
 
-##Some Pictures of website
+## Some Pictures of website
 
 <img width="960" alt="inbox" src="https://github.com/notyour-sattu/GMAIL-clone/assets/106303115/ff0763f8-e4bf-41bf-bbe0-b657e6ccd17b">
 <img width="960" alt="image" src="https://github.com/notyour-sattu/GMAIL-clone/assets/106303115/e1679597-4e96-4bb5-90da-d90eecb3d37b">
@@ -41,7 +41,7 @@ Explore the codebase, understand the implementation details, and contribute to t
 <img width="960" alt="image" src="https://github.com/notyour-sattu/GMAIL-clone/assets/106303115/b1456c81-83e8-4992-8954-3937befd9c5d">
 <img width="960" alt="image" src="https://github.com/notyour-sattu/GMAIL-clone/assets/106303115/d89c5969-c818-49b2-a76c-bbafe0b6cdf5">
 
-##These are the mails received by my real Gmail account which i sent from Gmail-Clone
+## These are the mails received by my real Gmail account which i sent from Gmail-Clone
 <img width="957" alt="image" src="https://github.com/notyour-sattu/GMAIL-clone/assets/106303115/d17ed385-e2ec-41bc-aee2-f0b4bc5170a2">
 
 
